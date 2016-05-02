@@ -1,0 +1,13 @@
+PODS:
+  - CoreStore (1.6.3):
+    - GCDKit (= 1.2.2)
+  - GCDKit (1.2.2)
+
+DEPENDENCIES:
+  - CoreStore (~> 1.6.3)
+
+SPEC CHECKSUMS:
+  CoreStore: a2193bcb517a566198077a0c0d7e48f14c271a77
+  GCDKit: 15e3d514cbf5d56699b2716b798031f778fb48c2
+
+COCOAPODS: 0.39.0
